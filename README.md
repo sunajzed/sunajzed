@@ -3,7 +3,7 @@
 # Hi there, I'm Sunaj T P 👋
 ### Senior Full-Stack & AI Engineer • Headless E-Commerce • Local LLM Architect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=22C55E&center=true&vcenter=true&width=700&lines=Full-Stack+Software+Engineer;Local+LLMs+(Llama+3+%2F+Qwen)+%2B+Ollama;Shopify+Hydrogen+Headless+E-Commerce;Multi-Tenant+SaaS+Architecture;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;AWS+%7C+Docker+%7C+Nginx+%7C+Coolify+%7C+PostgreSQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=22C55E&center=true&vcenter=true&width=700&lines=Full-Stack+Software+Engineer;Local+LLMs+(Llama+3+%2F+Qwen)+%2B+Ollama;Shopify+Hydrogen+Headless+E-Commerce;CI%2FCD+Pipelines+%2B+GitHub+Actions;Multi-Tenant+SaaS+Architecture;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;AWS+%7C+Docker+%7C+Nginx+%7C+Coolify+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/bornovdev">
@@ -24,7 +24,7 @@ I am a **high-output Full-Stack Engineer and AI Integration Specialist** archite
 * 🤖 **Local AI & Open-Source LLMs:** Engineered private, zero-cloud-cost on-premise AI systems leveraging **Ollama** with **Meta Llama 3** and **Qwen**. Implemented local embeddings, vector retrieval, contextual question synthesis, and agentic workflows.
 * 🚀 **Headless E-Commerce:** Built production headless storefronts using **Shopify Hydrogen**, Storefront GraphQL API, and multi-currency dynamic pricing serving high-volume international markets (GCC / Middle East).
 * 🏢 **Multi-Tenant SaaS:** Designed scalable cloud platforms featuring role-based access control (RBAC), multi-branch tenant isolation, and dual payment gateways (Stripe & Razorpay).
-* ⚙️ **Production DevOps:** End-to-end forward deployment on **AWS, Coolify PaaS, Hostinger, Render, Ubuntu VPS, and Nginx reverse proxies with Docker**.
+* ⚙️ **CI/CD & Forward Deployment:** Automated **CI/CD pipelines via GitHub Actions**, lint/test gating, automated container builds, and zero-downtime rollouts across **AWS, Coolify PaaS, Hostinger, Render, Ubuntu VPS, and Nginx reverse proxies with Docker**.
 
 ---
 
@@ -64,7 +64,9 @@ I am a **high-output Full-Stack Engineer and AI Integration Specialist** archite
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Neon DB](https://img.shields.io/badge/Neon_Serverless_Postgres-00E599?style=for-the-badge&logo=neon&logoColor=black)
 
-#### **☁️ Cloud, DevOps & Forward Deployment**
+#### **☁️ Cloud, DevOps, CI/CD & Forward Deployment**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(CI%2FCD)-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-0052CC?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS_(EC2%2C_S3)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify_PaaS-6B46C1?style=for-the-badge)
 ![VPS](https://img.shields.io/badge/Ubuntu_VPS_Deployments-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
