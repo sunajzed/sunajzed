@@ -6,6 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=22C55E&center=true&vcenter=true&width=700&lines=Full-Stack+Software+Engineer;Local+LLMs+(Llama+3+%2F+Qwen)+%2B+Ollama;Shopify+Hydrogen+Headless+E-Commerce;CI%2FCD+Pipelines+%2B+GitHub+Actions;Multi-Tenant+SaaS+Architecture;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;AWS+%7C+Docker+%7C+Nginx+%7C+Coolify+%7C+PostgreSQL)](https://git.io/typing-svg)
 
 <p align="center">
+  <a href="https://portfolio-production-2a1b.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/⚡_Live_Portfolio-Visit_Interactive_Showcase-000000?style=for-the-badge&logo=railway&logoColor=white&labelColor=10B981" alt="Live Portfolio" />
+  </a>
   <a href="https://github.com/bornovdev">
     <img src="https://img.shields.io/badge/Company-Bornov%20Technologies-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -114,6 +117,8 @@ I am a **high-output Full-Stack Engineer and AI Integration Specialist** archite
 
 <div align="center">
 
+[![Live Portfolio](https://img.shields.io/badge/⚡_Live_Portfolio-2a1b.up.railway.app-000000?style=for-the-badge&logo=railway&logoColor=white&labelColor=10B981)](https://portfolio-production-2a1b.up.railway.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sunaj--tp77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunaj-tp77)
 [![Email](https://img.shields.io/badge/Direct_Email-sunajtp7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunajtp7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sunajzed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunajzed)
 [![Organization](https://img.shields.io/badge/Team-Bornov%20Technologies-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bornovdev)
